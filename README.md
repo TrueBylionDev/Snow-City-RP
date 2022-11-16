@@ -9,6 +9,7 @@ Esta basada en la Gamemode más quedama New State RP o Actividad RP por lo cual 
 
 Pusieron unas que otras cosas nuevas tales como mapeos y facciones, acá les dejo una imagen.
 
-Imagen de la faccion LSSD(Nueva Faccion)
 ![image](https://user-images.githubusercontent.com/79029100/202062454-08cb5f48-a9cb-43c1-ad6f-265d628918d7.png)
+![image](https://user-images.githubusercontent.com/79029100/202066442-3a81984a-2a71-430e-bdc5-cba0409c2a6d.png)
+
 
