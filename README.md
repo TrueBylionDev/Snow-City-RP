@@ -7,14 +7,14 @@ Esta basada en la Gamemode más quedama New State RP, Actividad RP y Distrito Ze
 
 ## Cosas Nuevas:
 
-Pusieron unas que otras cosas nuevas tales como mapeos y facciones, acá les dejo una imagen.
+- Pusieron unas que otras cosas nuevas tales como mapeos y facciones, acá les dejo una imagen.
 
 ![image](https://user-images.githubusercontent.com/79029100/202062454-08cb5f48-a9cb-43c1-ad6f-265d628918d7.png)
 ![image](https://user-images.githubusercontent.com/79029100/202066442-3a81984a-2a71-430e-bdc5-cba0409c2a6d.png)
 
-Se puso un menu de auto para que se pueda hacer más facil la interaccion de los coches.
-Se puso nuevos Mapeos tales para facciones y como ambientacion.
-Se puso mensajes de tiempos de AFK de cada usuario(Solo lo veras tu), si tu miras alguien que esta AFK verás unos letreros que dice cuanto tiempo tiene de AFK.
+- Se integro un menu de auto para que se pueda hacer más facil la interaccion de los coches.
+- Se integro nuevos Mapeos tales para facciones y como ambientacion.
+- Se integro mensajes de tiempos de AFK de cada usuario(Solo lo veras tu), si tu miras alguien que esta AFK verás unos letreros que dice cuanto tiempo tiene de AFK.
 
 Puedes ver los cambios si tu entras al servidor, ya si menciono todos esto se haría largo.
 
